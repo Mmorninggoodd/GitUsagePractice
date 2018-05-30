@@ -5,4 +5,5 @@ public static void main(String[] args){
 	//bug fix
 	System.out.println("bug fix");
 	System.out.println("Add another one branch!");
+	System.out.println("Add after another branch already added!");
 }
